@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lataa kauhupeli
+title: Lataukset
 ---
 
 # Lataa kauhupelini
